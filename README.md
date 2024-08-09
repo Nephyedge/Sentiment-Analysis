@@ -1,5 +1,5 @@
-#Hate Speech Detection and Classification
-##Overview
+Hate Speech Detection and Classification
+Overview
 This project focuses on detecting and classifying hate speech in tweets. The goal is to preprocess and analyze text data to identify whether a tweet contains hate speech. The project utilizes text processing techniques, sentiment analysis, and machine learning for classification.
 
 Project Structure
@@ -19,6 +19,7 @@ transformers
 datasets
 torch
 You can install these dependencies using:
+
 
 bash
 Copy code
